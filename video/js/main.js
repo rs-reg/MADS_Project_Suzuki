@@ -137,9 +137,9 @@
 			'</div>' +
 			'<div style="text-align:center">' +
 			'<img  src="'+_this.sdk.path+'img/f-5.jpg" alt="smartplay"/>  ' +  
-			'<img  src="'+_this.sdk.path+'img/explore-button.png" alt="smartplay"/>  ' +   
+			'<a href="http://www.marutisuzuki.com/ertiga.aspx?utm_source=Nimbuzz&utm_medium=banner&utm_content=cube&utm_campaign=ErtigaMC" target="_blank"><img  src="'+_this.sdk.path+'img/explore-button.png" alt="smartplay"/> </a>' +   
 			'</div>' +
-			'</div>');
+			'</div>'); 
 		this.parent.append('<div class="image-bottom"><img class="footer" src="'+ _this.sdk.path +'img/footer.png" title="Maruti Suzuki Logo"></img><div>');
 		function loadEvent(){
 			video = new ytComponent({
