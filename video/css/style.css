@@ -1,0 +1,19 @@
+#rma-widget{
+	height: 480px;
+	width: 320px;
+	position: relative;
+}
+
+.logo-top{
+	margin: auto;
+}
+
+.image-top, .image-bottom{
+	text-align: center;
+}
+
+.image-bottom {
+	position: absolute;
+	margin-top: 7px;
+	margin-left: 44px;
+}
